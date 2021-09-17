@@ -1,0 +1,15 @@
+{
+    "name": "hp/examination",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Examination\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdulhalim Mabrouk Hafidh",
+            "email": "50109942+amhafidhJr@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
